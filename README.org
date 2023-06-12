@@ -1,0 +1,10 @@
+* eager-future2
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/vsedach/eager-future2.git   |
+| commit  |   |
+| systems | eager-future2 |
+|---------+-------------------------------------------|
+
